@@ -7,4 +7,4 @@ In the repository you can find:
 - A Jypiter Notebook with the Python code and visualisations.
 - A PPT presentation with key insights on coffee shop opening.
 
-Mind that the data on Moscow public catering market used in this example of analytics work is not full and up-to-date for 2023, and is not appicable to use for setting up a public catering market object.
+Mind that the data on Moscow public catering market used in this example of analytics work is not full and up-to-date for 2023, and is not appicable for setting up a public catering market object.
